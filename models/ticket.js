@@ -8,7 +8,7 @@ class Ticket {
         this.numero     = numero;
         this.escritorio = null;
         this.agente     = null;
-
+        this.time       = null;
     }
 
 
